@@ -1,0 +1,12 @@
+{
+  "applicant_id": "A1001",
+  "income_monthly": 6000,
+  "expenses_monthly": 2200,
+  "existing_debt_monthly": 400,
+  "credit_score": 740,
+  "requested_amount": 15000,
+  "requested_term_months": 36,
+  "employment_years": 6,
+  "age": 32,
+  "loan_purpose": "auto"
+}
